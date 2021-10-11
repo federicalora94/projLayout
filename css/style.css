@@ -1,0 +1,129 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+#box {
+    height: 50rem;
+    width: 90rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 100px 10px rgb(219, 219, 219);
+    margin: auto;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 2px;
+
+}
+#heading {
+    font-size: 4rem;
+    width: 38rem;
+    line-height: 4rem;
+    color: rgb(97, 0, 105);
+    margin: 0;
+}
+#subline {
+    width: 30rem;
+    color: rgb(218, 218, 218);
+    margin-top: 2;
+}
+#title {
+    padding-left: 10rem;
+    padding-top: 8rem;
+    display: inline-block;
+}
+.bars {
+    display: inline-block;
+}
+.rating1{
+    width: 28rem;
+    height: 3.5rem;
+    border-radius: 8px;
+    background-color: rgb(232, 221, 235);
+    margin-bottom: 1.5rem;
+}
+.rating2 {
+    width: 28rem;
+    height: 3.5rem;
+    border-radius: 8px;
+    background-color: rgb(232, 221, 235);
+    margin-bottom: 1.5rem;
+}
+.rating3 {
+    width: 28rem;
+    height: 3.5rem;
+    border-radius: 8px;
+    background-color: rgb(232, 221, 235);
+    margin-bottom: 1.5rem;
+}
+.purpleBox{
+    width: 22rem;
+    height: 14rem;
+    background-color: rgb(97, 0, 105);
+    display: inline-block;
+    border-radius: 6px;
+    float: left;
+}
+#bottom{
+    margin-left: 10rem;
+}
+#boxOne{
+    margin-top: 2.5rem;
+    margin-right: 2rem;
+}
+#boxTwo {
+    margin-top: 3.5rem;
+    margin-right: 2rem;
+}
+#boxThree {
+    margin-top: 4.5rem;
+}
+.name {
+    padding-left: 6rem;
+    padding-top: 1.5rem;
+    margin-bottom: 0.1rem;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.job {
+    padding-left: 6rem;
+    color: rgb(182, 57, 194);
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0;
+}
+.feedback {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    margin-bottom: 0.1rem;
+    color: white;
+    font-size: 14px;
+    line-height: 1.4rem;
+}
+.profile-img1 {
+    background: url(../images/pngfind.com-profile-picture-png-4887957.png);
+    height: 50px;
+    width: 50px;
+    background-size: contain;
+    position: absolute;
+    margin: 30px;
+}
+.profile-img2 {
+    background: url(../images/PikPng.com_face-profile-png_3555383.png);
+    height: 50px;
+    width: 50px;
+    background-size: contain;
+    position: absolute;
+    margin: 30px;
+}
+.profile-img3 {
+    background: url(../images/NicePng_cammy-png_1829287.png);
+    height: 50px;
+    width: 50px;
+    background-size: contain;
+    position: absolute;
+    margin: 30px;
+}
